@@ -29,9 +29,6 @@ Años | Pago
 
 Máximo 26%.
 
-0,1429 x 1359.5 = 194,21€
-
-
 Años | Pago
 --- | ---
 1 - 26% mas IVA completo| 638,97
